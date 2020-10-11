@@ -1,6 +1,8 @@
 ### Hi there 👋
 Place for a Wiki where I note down some howtos I don't want to forget.
 
+Goto Repository https://github.com/spreis/spreis and select the **Wiki**-Tab there.
+
 <!--
 **spreis/spreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
